@@ -1,11 +1,12 @@
 # Overview
 It is licensed under [MIT](https://opensource.org/licenses/MIT).
 
-## First of all
-This is an example using [google-oauth2-client-servlet](https://github.com/riversun/google-oauth2-client-servlet.git) library.
-You can check detailed OAuth2-flow that the library supports on [this page](https://github.com/riversun/google-oauth2-client-servlet.git).
 
 ## Example of servlet app that supports "login with Google"
+
+**About this example**
+This is an example using [google-oauth2-client-servlet](https://github.com/riversun/google-oauth2-client-servlet.git) library.
+You can check detailed OAuth2-flow that the library supports on [this page](https://github.com/riversun/google-oauth2-client-servlet.git).
 
 - Enable "Login with Google" by OAuth2/OpenId connect
 - Get OAuth2 credential(access_token,refresh_token)

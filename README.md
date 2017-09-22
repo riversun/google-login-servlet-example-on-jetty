@@ -3,6 +3,9 @@ It is licensed under [MIT](https://opensource.org/licenses/MIT).
 
 ## Example of servlet app that supports "login with Google"
 
+- Enable "Login with Google" by OAuth2/OpenId connect
+- Get OAuth2 credential(access_token,refresh_token)
+
 <img src="https://riversun.github.io/img/goauth2/lib_oauth2_example02a.png">  
 
 <img src="https://riversun.github.io/img/goauth2/lib_oauth2_example02b.png">  

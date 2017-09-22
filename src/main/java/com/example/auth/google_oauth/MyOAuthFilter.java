@@ -33,7 +33,7 @@ public class MyOAuthFilter extends OAuthFilter {
     protected List<String> getScopes() {
 
         final String OAUTH2_SCOPE_MAIL = "email";
-        final String OAUTH2_SCOPE_USERINFO_PROFILE = "https://www.googleapis.com/auth/userinfo.profile";
+        final String OAUTH2_SCOPE_USERINFO_PROFILE = "profile";
 
         return Arrays.asList(OAUTH2_SCOPE_MAIL, OAUTH2_SCOPE_USERINFO_PROFILE);
 
